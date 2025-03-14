@@ -15,7 +15,7 @@ This is a **university project** for implementing a **Medical Test Management Sy
 
 ## 🛠️ System Functionality  
 **1. Add a new medical test record:** with proper validation.  
-**2. Search for test records:** using multiple criteria:  
+**2. Search for test records:** using multiple criteria:
    - Retrieve all tests for a patient.  
    - Retrieve abnormal test results.  
    - Retrieve tests within a specific period.  
