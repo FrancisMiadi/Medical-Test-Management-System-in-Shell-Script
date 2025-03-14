@@ -19,7 +19,8 @@ This is a **university project** for implementing a **Medical Test Management Sy
    - Retrieve all tests for a patient.  
    - Retrieve abnormal test results.  
    - Retrieve tests within a specific period.  
-   - Retrieve tests based on status.  
+   - Retrieve tests based on status.
+
 **3. Filter abnormal test results:** for a given medical test.  
 **4. Calculate the average test value:** for each type.  
 **5. Update an existing test result.**  
