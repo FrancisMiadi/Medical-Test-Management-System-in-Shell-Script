@@ -26,6 +26,10 @@ This is a **university project** for implementing a **Medical Test Management Sy
 **5. Update an existing test result.**  
 **6. Delete a test record.**
 
+## 🤝 Project Team
+-**Francis Miadi**  
+-Miar Taweel 
+
 ## 🌐 Contact  
 **For inquiries, reach out via:**  
 - **Email:** *francismiadi0@gmail.com*  
